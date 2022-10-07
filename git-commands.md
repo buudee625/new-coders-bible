@@ -6,7 +6,7 @@
     
     `gh repo create`
     
-- **Link to a new remote**
+- **Link to a new remote** (instruction from GitHub)
     
     `git init`
     
@@ -26,6 +26,11 @@
     
     `git clone <ssh_or_http_url>` 
     
+- ** Clone a single branch
+`git clone --single-branch <repo_url>`  Clones just the main branch
+`git clone -b <branch_name> --single-branch <repo_url>` Clones the specified branch
+    
+    
 
 ## Working on Repos
 
@@ -42,15 +47,18 @@
     
     **Merge branches**
     
-    - `git merge <branch_name>`
+    - `git merge <branch_name>` (bring contents from <branch_name> to the current branch you are on)
     
     **Delete a branch**
     
-    - `git checkout -d <branch_name>`
+    - `git branch -d <branch_name>`
+    - `git branch -D` Force delete, same as `--delete --force`
     
     **Show branches**
     
     - `git branch -v`
+
+
 - **Fetch and Pull `fetch`, `pull` ([Doc](https://github.com/git-guides/git-pull))**
     
     **Fetching changes from a remote** 
@@ -62,6 +70,8 @@
     
     - `git fetch <remote_name> <branch_name>` Fetch, or receive, commits from a given remote at the given branch. Stores these commits in either the named commit, or in a special, new branch.
     - `git pull <remote_name> <branch_name>` Performs a `git fetch` into a new branch, then merges it into the current branch and removes the fetched branch.
+
+
 - **Push `push` ([Doc](https://github.com/git-guides/git-push))**
     - `git push (-u) (<remote_name> <branch_name>)` Push, or send, commits to remote at the given branch. `-u` saves the remote and branch names as default for future use.
     - `git push -f` or `--force` will force push local branch to remote ([Doc](https://www.freecodecamp.org/news/git-push-to-remote-branch-how-to-push-a-local-branch-to-origin/))
