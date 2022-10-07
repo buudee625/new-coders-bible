@@ -60,19 +60,19 @@
     
     General fetching, pulling
     
-    - `$ git fetch <remote_name> <branch_name>` Fetch, or receive, commits from a given remote at the given branch. Stores these commits in either the named commit, or in a special, new branch.
-    - `$ git pull <remote_name> <branch_name>` Performs a `git fetch` into a new branch, then merges it into the current branch and removes the fetched branch.
+    - `git fetch <remote_name> <branch_name>` Fetch, or receive, commits from a given remote at the given branch. Stores these commits in either the named commit, or in a special, new branch.
+    - `git pull <remote_name> <branch_name>` Performs a `git fetch` into a new branch, then merges it into the current branch and removes the fetched branch.
 - **Push `push` ([Doc](https://github.com/git-guides/git-push))**
-    - `$ git push (-u) (<remote_name> <branch_name>)` Push, or send, commits to remote at the given branch. `-u` saves the remote and branch names as default for future use.
-    - `$ git push -f` or `--force` will force push local branch to remote ([Doc](https://www.freecodecamp.org/news/git-push-to-remote-branch-how-to-push-a-local-branch-to-origin/))
+    - `git push (-u) (<remote_name> <branch_name>)` Push, or send, commits to remote at the given branch. `-u` saves the remote and branch names as default for future use.
+    - `git push -f` or `--force` will force push local branch to remote ([Doc](https://www.freecodecamp.org/news/git-push-to-remote-branch-how-to-push-a-local-branch-to-origin/))
 - **Stage Changes `add`([Doc](https://github.com/git-guides/git-add))**
-    - `$ git add <file_name>` Adds changes made to the given file to the staging area.
-    - `$ git add .` Adds all changes (creating, updating and removing files), to files in this directory and sub-directories, to the staging area.
-    - `$ git add -A` Adds all changes (creating, updating and removing files), in all files, to the staging area.
-    - `$ git add -p` Adds updates in all staged files to the staging area, but runs you through all the changes step by step.
+    - `git add <file_name>` Adds changes made to the given file to the staging area.
+    - `git add .` Adds all changes (creating, updating and removing files), to files in this directory and sub-directories, to the staging area.
+    - `git add -A` Adds all changes (creating, updating and removing files), in all files, to the staging area.
+    - `git add -p` Adds updates in all staged files to the staging area, but runs you through all the changes step by step.
 - **Committing Snapshots `commit` ([Doc](https://www.notion.so/Git-Commands-29ecead64aee4a3da088c9e6b3168354))**
-    - `$ git commit -m "awesome commit message"` Saves a snapshot of the filesystem including any changes that have been added/staged as a commit. It saves the commit with a simple description, or *message*, given after `m`.
-    - `$ git commit` Commits as above, but takes you to a text editor (`nano`) to edit the commit's *message*.
+    - `git commit -m "awesome commit message"` Saves a snapshot of the filesystem including any changes that have been added/staged as a commit. It saves the commit with a simple description, or *message*, given after `m`.
+    - `git commit` Commits as above, but takes you to a text editor (`nano`) to edit the commit's *message*.
 - **Go back to the previous commit**
     - `git reset --hard <commit-hash>`
 
@@ -81,8 +81,7 @@
 - `git remote show origin` Show repo’s remote URL
 - `git remote -v` Show all repo URL
 - `$ git status` Prints out the current "tracking state" of the repo. The state includes information about changes, additions and deletions of files, whether or not these changes have been added/stages, and sometimes even any merge conflicts.
-- `$ git log` Prints out the commit history of the current branch of the current repo.
-- `$ git branch` & `$ git branch -v` Prints out a list of all available branches in the repo.
-- `$ git diff <branch_or_commit_name>` Prints out information about *differences*, as insertions (in green) and deletions (in red), between the current commit and the given commit (or the most current commit in the given branch).
-
-`git diff` shows difference between files
+- `git log` Prints out the commit history of the current branch of the current repo.
+- `git branch` & `$ git branch -v` Prints out a list of all available branches in the repo.
+- `git diff <branch_or_commit_name>` Prints out information about *differences*, as insertions (in green) and deletions (in red), between the current commit and the given commit (or the most current commit in the given branch).
+- `git diff` shows difference between files
