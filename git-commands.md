@@ -26,7 +26,7 @@
     
     `git clone <ssh_or_http_url>` 
     
-- ** Clone a single branch
+- **Clone a single branch**
  
     `git clone --single-branch <repo_url>`  Clones just the main branch
 
