@@ -62,8 +62,6 @@
     
     `git branch -v`
 
-
-
 ### Fetch and Pull `fetch`, `pull` ([Doc](https://github.com/git-guides/git-pull))
     
 - **General fetching and pulilng**
@@ -82,7 +80,6 @@
     
     `git reset --hard origin/main` ([More on git reset](https://github.com/git-guides/git-pull#undo-a-git-pull))
     
-
 - **Push `push`** ([Doc](https://github.com/git-guides/git-push))
 
     `git push (-u) (<remote_name> <branch_name>)` 
@@ -112,9 +109,27 @@
 ## Reading Repos
 
 - `git remote show origin` Show repo’s remote URL
+
 - `git remote -v` Show all repo URL
+
 - `$ git status` Prints out the current "tracking state" of the repo. The state includes information about changes, additions and deletions of files, whether or not these changes have been added/stages, and sometimes even any merge conflicts.
+
 - `git log` Prints out the commit history of the current branch of the current repo.
+
 - `git branch` & `$ git branch -v` Prints out a list of all available branches in the repo.
+
 - `git diff <branch_or_commit_name>` Prints out information about *differences*, as insertions (in green) and deletions (in red), between the current commit and the given commit (or the most current commit in the given branch).
+
 - `git diff` shows difference between files
+
+## Misc Operations
+
+- **Removing a file from Git** (*Note*: This does NOT remove the file from past commit history!) ([Source](https://daily-dev-tips.com/posts/removing-a-env-file-from-git-history/))
+
+    `git rm -r --cached <filename>` 
+
+    Example: `git rm -r --cached .env`
+    
+- **Completely remove a file from Git history** (*Note*: This will restructure your commit history!)
+
+    `git filter-branch --index-filter "git rm -rf --cached --ignore-unmatch <filename>" HEAD`
