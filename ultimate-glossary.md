@@ -5,13 +5,13 @@
 - **eXtensible Markup Language** `XML`: A markup language and file format for storing, transmitting, and reconstructing arbitrary data. It does not perform anything and has no predefined tags.
 
 - **Markup language**: A markup language is a computer language that uses tags to define elements within a document. The noun markup is derived from the traditional publishing practice called "marking up" a manuscript. (`Markdown` A lightweight _markup language_)
-- `CSS` **Cascading Style Sheets**
+- **Cascading Style Sheets** `CSS`
 
-- `SASS` **Syntactically Awesome Style Sheets** (not SaaS, Software as a Service)
+- **Syntactically Awesome Style Sheets** `SASS`: Not SaaS, Software as a Service
 
-- `SCSS` **Sassy Cascading Style Sheets**
+- **Sassy Cascading Style Sheets** `SCSS`
 
-- `SQL` **Structured Query Language**
+- **Structured Query Language** `SQL`
 
 </br >
 
