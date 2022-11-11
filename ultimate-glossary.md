@@ -1,7 +1,5 @@
 ## Languages
 
----
-
 - **HyperText Markhup Language** `HTML`
 
 - **eXtensible Markup Language** `XML`: A markup language and file format for storing, transmitting, and reconstructing arbitrary data. It does not perform anything and has no predefined tags.
@@ -18,8 +16,6 @@
 </br >
 
 ## CS Concepts:
-
----
 
 - **Function**: A block of code that takes input and returns an output
 
@@ -63,8 +59,6 @@
 
 ## Installer, Package Manager, Compiler, Etc
 
----
-
 - `pip` Package Installer for Python. The most popular tool for installing Python packages, and the one included with modern versions of Python.
 
 - `npm` Node Package Manager. A programming library and package manager for Node.js and JavaScript.
@@ -84,16 +78,12 @@
 
 ## Frameworks/Engines
 
----
-
 - `Jinja`
   A web template engine for the Python
 
 </br>
 
 ## Stacks
-
----
 
 - `MERN` MongoDB, ExpressJS, ReactJS, NodeJS
 
@@ -105,9 +95,7 @@
 
 ## Shells
 
----
-
-> In computing, a shell is a computer program that exposes an operating system's services to a human user or other programs. Starting with macOS Catalina (10.15), Apple set the default shell to the Z shell (zsh). In previous macOS versions, the default was Bash.
+#### In computing, a shell is a computer program that exposes an operating system's services to a human user or other programs. Starting with macOS Catalina (10.15), Apple set the default shell to the Z shell (zsh). In previous macOS versions, the default was Bash.
 
 - `zsh` Z shell
 
@@ -126,8 +114,6 @@
 </br>
 
 ## Various Acronyms
-
----
 
 #### _A ever growing list of tech acronyms_
 
