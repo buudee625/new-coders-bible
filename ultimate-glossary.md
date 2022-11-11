@@ -135,6 +135,7 @@
 
 - `REST`: REpresentational State Transfer as in _RESTful API_
 
+</br>
 
 ## Shells
 
