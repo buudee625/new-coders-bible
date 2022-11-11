@@ -64,7 +64,7 @@
 
 ### Fetch and Pull `fetch`, `pull` ([Doc](https://github.com/git-guides/git-pull))
     
-- **General fetching and pulilng**
+- **General fetching and pulling**
 
     `git fetch <remote_name> <branch_name>` 
    
