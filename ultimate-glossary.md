@@ -117,8 +117,6 @@
 
 #### _A ever growing list of tech acronyms_
 
-</br>
-
 - `AJAX`: Asynchronous Javascript And XLM
 
 - `API`: Application Programming Interface
@@ -137,7 +135,7 @@
 
 - `HTTP`: Hypertext Transfer Protocol
 
-- `IANA`: The Internet Assigned Numbers Authority is responsible for all official MIME types
+- `IANA`: The Internet Assigned Numbers Authority is responsible for all official `MIME` types
 
 - `IDE`: Integrated Development Environment
 
@@ -147,7 +145,7 @@
 
 - `MIME` Multipurpose Internet Mail Extensions or MIME type is a media type which indicates the nature and format of a document, file, or assortment of bytes. ([Link](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types))
 
-- `MVC`: Model View Controller
+- `MVC`: Model-View-Controller
 
 - `OOP`: Object-Oriented-Programming
 
