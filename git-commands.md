@@ -106,13 +106,15 @@
 
     `git reset --hard <commit-hash>`
 
-## Reading Repos
+## Reading Repos `remote`
 
 - `git remote show origin` Show repo’s remote URL
 
 - `git remote -v` Show all repo URL
+    
+- `git remote set-url origin <repo_URL>` Set repot URL on origin
 
-- `$ git status` Prints out the current "tracking state" of the repo. The state includes information about changes, additions and deletions of files, whether or not these changes have been added/stages, and sometimes even any merge conflicts.
+- `git status` Prints out the current "tracking state" of the repo. The state includes information about changes, additions and deletions of files, whether or not these changes have been added/stages, and sometimes even any merge conflicts.
 
 - `git log` Prints out the commit history of the current branch of the current repo.
 
