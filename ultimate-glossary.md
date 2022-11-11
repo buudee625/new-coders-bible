@@ -93,26 +93,6 @@
 
 </br>
 
-## Shells
-
-#### In computing, a shell is a computer program that exposes an operating system's services to a human user or other programs. Starting with macOS Catalina (10.15), Apple set the default shell to the Z shell (zsh). In previous macOS versions, the default was Bash.
-
-- `zsh` Z shell
-
-- `bash` Bourne Again SHell
-
-- `sh` Bourne shell
-
-- `rc` run commands
-
-- `ksh` Korn shell
-
-- `csh` C shell
-
-- `tcsh` TENEX C shell
-
-</br>
-
 ## Various Acronyms
 
 #### _A ever growing list of tech acronyms_
@@ -154,3 +134,24 @@
 - `REPL`: Read-Evaluate-Print-Loop
 
 - `REST`: REpresentational State Transfer as in _RESTful API_
+
+
+## Shells
+
+#### In computing, a shell is a computer program that exposes an operating system's services to a human user or other programs. Starting with macOS Catalina (10.15), Apple set the default shell to the Z shell (zsh). In previous macOS versions, the default was Bash.
+
+- `zsh` Z shell
+
+- `bash` Bourne Again SHell
+
+- `sh` Bourne shell
+
+- `rc` run commands
+
+- `ksh` Korn shell
+
+- `csh` C shell
+
+- `tcsh` TENEX C shell
+
+</br>
