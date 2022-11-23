@@ -1,6 +1,6 @@
 # VS Code Hacks & Useful Tips
 
-## Shortcuts ⌨️✅
+## Shortcuts ✅⌨️
 
 - `command + d` locate and edit duplicate items, perfect for editing the same variables on the same page at once
 - `shift + option + ↓` duplicate the current line of code
