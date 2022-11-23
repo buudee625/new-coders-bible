@@ -1,11 +1,13 @@
-# Shortcuts ⌨️✅
+# VS Code Hacks & Useful Tips
+
+## Shortcuts ⌨️✅
 
 - `command + d` locate and edit duplicate items, perfect for editing the same variables on the same page at once
 - `shift + option + ↓` duplicate the current line of code
 
 </br>
 
-# Autocomplete 🤖🦾
+## Autocomplete 🤖🦾
 💡 Press `tab` or `enter` at the end
 
 ### HTML 
