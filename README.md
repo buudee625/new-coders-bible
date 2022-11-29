@@ -15,9 +15,9 @@ Happy coding!
 </br>
 
 ## Table Of Contents
-- **git-commands.md** </br>
+- [**git-commands.md**](https://github.com/buudee625/new-coders-bible/blob/main/git-commands.md) </br>
 A quick reference of frequently used git commands, forgot how to change the remote URL? Yup. </br>
-- **ultimate-glossary** </br>
+- [**ultimate-glossary**](https://github.com/buudee625/new-coders-bible/blob/main/ultimate-glossary.md) </br>
 A ever growing list of tech acronyms and other stuff. Of course I know what HTML stands for, Hypertext... um, and the hell is CDN again? </br>
-- **vs-code-hacks-useful-tips** </br>
+- [**vs-code-hacks-useful-tips**](https://github.com/buudee625/new-coders-bible/blob/main/vs-code-hacks-useful-tips.md)</br>
 O.M.G. WHY WASN'T I TOLD ABOUT THIS?! THIS WOULD HAVE SAVED MY LIFE 10MIN AGO!!! </br>
