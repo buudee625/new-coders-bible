@@ -1,19 +1,19 @@
-# Ultimate Glossary 🅰️🅱️
+# Ultimate Glossary 🅰️📖🅱️
 
 ## Languages
 
-- **HyperText Markhup Language** `HTML`
+- `HTML` **HyperText Markhup Language** 
 
-- **eXtensible Markup Language** `XML`: A markup language and file format for storing, transmitting, and reconstructing arbitrary data. It does not perform anything and has no predefined tags.
+- `XML` **eXtensible Markup Language**: A markup language and file format for storing, transmitting, and reconstructing arbitrary data. It does not perform anything and has no predefined tags.
 
 - **Markup language**: A markup language is a computer language that uses tags to define elements within a document. The noun markup is derived from the traditional publishing practice called "marking up" a manuscript. (`Markdown` A lightweight _markup language_)
-- **Cascading Style Sheets** `CSS`
+- `CSS` **Cascading Style Sheets**
 
-- **Syntactically Awesome Style Sheets** `SASS`: Not SaaS, Software as a Service
+- `SASS` **Syntactically Awesome Style Sheets**: Not SaaS, Software as a Service
 
-- **Sassy Cascading Style Sheets** `SCSS`
+- `SCSS` **Sassy Cascading Style Sheets**
 
-- **Structured Query Language** `SQL`
+- `SQL` **Structured Query Language**
 
 </br >
 
@@ -56,6 +56,13 @@
   > Java Program > Java Compiler > Java Byte Code > Java Interpreter > Machine Code
 
 - **Machine code**: Machine code consisting of binary instructions (1s and 0s) that are directly understandable by the CPU.
+
+### Misc Glossary
+
+- **Anagram**: A word or phrase made by using the letters of another word or phrase in a different order. e.g. Cat and Act.
+- **Pangram**: A sentence or verse that contains all the letters of the alphabet. e.g. "A quick brown fox jumps over the lazy dog".
+- **Palindrome**: A word, phrase, or sequence that reads the same backward as forward. e.g. Racecar.
+- **Portmanteau**: A word made by combining two words. e.g. Brunch = Breakfast + Lunch.
 
 </br >
 
