@@ -12,25 +12,29 @@
 
 ### HTML 
   
-- Use `.` to attach a class to the tag `div.awesome-class` converts to: </br>
+- Use `.` to attach a class to the tag
     ```html
+      <!-- div.awesome-class -->
       <div class="awesome-class"></div>
     ```
 
-- Use `#` to attach an id to the tag `div#specific-id` converts to: </br>
+- Use `#` to attach an id to the tag
     ```html
+      <!-- div#specific-id -->
       <div id="specific-id"></div>
     ```
         
-- Use `>` to include a child element `div.parent-class>div.child-class` converts to: </br>
+- Use `>` to include a child element
     ```html
+      <!-- div.parent-class>div.child-class -->
       <div class="parent-class">
         <div class="child-class"></div>
       </div>
     ```
         
-- Use `*` to create duplicate elements `ul>li*3>button.btn` converts to: </br>
+- Use `*` to create duplicate elements
     ```html
+      <!-- ul>li*3>button.btn -->
       <ul>
         <li><button class="btn"></button></li>
         <li><button class="btn"></button></li>
@@ -38,8 +42,9 @@
       </ul>
     ```
         
-- Use `$` to add incrementing numbers `table>tbody>tr>td*5.cell$` converts to: </br> 
+- Use `$` to add incrementing numbers
     ```html
+      <!-- table>tbody>tr>td*5.cell$ -->
       <table>
         <tbody>
           <tr>
@@ -53,8 +58,9 @@
       </table>
     ```
 
-- Use `{}` to add contents between tags `div.your-class{item}` converts to: </br>
+- Use `{}` to add contents between tags
     ```html
+      <!-- div.your-class{item} -->
       <div class="your-class">item</div>
     ```
         
