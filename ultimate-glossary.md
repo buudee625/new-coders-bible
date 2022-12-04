@@ -61,6 +61,7 @@
 
 - **Anagram**: A word or phrase made by using the letters of another word or phrase in a different order. e.g. Cat and Act.
 - **Pangram**: A sentence or verse that contains all the letters of the alphabet. e.g. "A quick brown fox jumps over the lazy dog".
+- **Ambigram**: a word or design that retains meaning when viewed from a different direction or perspective (or upside-down).
 - **Palindrome**: A word, phrase, or sequence that reads the same backward as forward. e.g. Racecar.
 - **Portmanteau**: A word made by combining two words. e.g. Brunch = Breakfast + Lunch.
 - **Snake case**: some_variable (separate words with underscore "_")
