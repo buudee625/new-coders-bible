@@ -57,17 +57,6 @@
 
 - **Machine code**: Machine code consisting of binary instructions (1s and 0s) that are directly understandable by the CPU.
 
-## Misc Glossary
-
-- **Anagram**: A word or phrase made by using the letters of another word or phrase in a different order. e.g. Cat and Act.
-- **Pangram**: A sentence or verse that contains all the letters of the alphabet. e.g. "A quick brown fox jumps over the lazy dog".
-- **Ambigram**: A word or design that retains meaning when viewed from a different direction or perspective (or upside-down).
-- **Palindrome**: A word, phrase, or sequence that reads the same backward as forward. e.g. Racecar.
-- **Portmanteau**: A word made by combining two words. e.g. Brunch = Breakfast + Lunch.
-- **Snake case**: some_variable (separate words with underscore "_")
-- **Camel case**: someVariable (capitalize each word except the first)
-- **Pascal case**: SomeVariable (capitalize each word)
-
 </br >
 
 ## Installer, Package Manager, Compiler, Etc
@@ -144,9 +133,24 @@
 
 - `ORM`: Object Relational Mapping
 
+- `PEP`: Python Enhancement Proposals. PEP contains the index of all Python Enhancement Proposals, e.g. PEP8 is the Style Guide for Python Code [Link](https://peps.python.org/pep-0008/)
+
 - `REPL`: Read-Evaluate-Print-Loop
 
 - `REST`: REpresentational State Transfer as in _RESTful API_
+
+</br>
+
+## Misc Glossary
+
+- **Anagram**: A word or phrase made by using the letters of another word or phrase in a different order. e.g. Cat and Act.
+- **Pangram**: A sentence or verse that contains all the letters of the alphabet. e.g. "A quick brown fox jumps over the lazy dog".
+- **Ambigram**: A word or design that retains meaning when viewed from a different direction or perspective (or upside-down).
+- **Palindrome**: A word, phrase, or sequence that reads the same backward as forward. e.g. Racecar.
+- **Portmanteau**: A word made by combining two words. e.g. Brunch = Breakfast + Lunch.
+- **Snake case**: some_variable (separate words with underscore "_")
+- **Camel case**: someVariable (capitalize each word except the first)
+- **Pascal case**: SomeVariable (capitalize each word)
 
 </br>
 
